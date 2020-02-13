@@ -1,5 +1,5 @@
 # Stock-prediction
-## Predicting stock price values using historical data
+## Predicting stock price values
 Comparing performance/accuracy of 2 models : 
 SVM and Linear Regession model
 ### Packages required :
