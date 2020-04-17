@@ -5,6 +5,6 @@ SVM and Linear Regession model
 ### Packages required :
 Pandas
 Numpy
-Scikit Learn
+Scikit-Learn
 ### To execute
 Download stock dataset and run stock_pred or pred.py file
